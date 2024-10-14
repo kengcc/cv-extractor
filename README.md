@@ -24,18 +24,9 @@ Simple chat app using OpenAI API and OLLAMA.
 ```
    % pip install -r requirements.txt
 ```
+5. Run pdfExtractor.ipynb
 
-5. run ollama
-```
-% ollama run gemma2:2b
-```
-
-6. run the application 
-```
-   % streamlit run app.py
-```
-
-7. Check the langsmith (LLMOps)
+6. Check the langsmith (LLMOps)
 ```
    https://smith.langchain.com/
 ```
